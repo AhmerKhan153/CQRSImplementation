@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Service/bin/Debug/netcoreapp2.0
+/.vs
+/Core/bin/Debug/netcoreapp2.0
+/Core/obj
+/CQRS_Implementation/bin/Debug/netcoreapp2.2
+/CQRS_Implementation/obj
+/Service/obj
+/Shared/bin/Debug/netcoreapp2.0
+/Shared/obj
